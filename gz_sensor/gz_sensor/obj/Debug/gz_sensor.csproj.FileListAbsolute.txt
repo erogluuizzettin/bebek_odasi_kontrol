@@ -1,0 +1,36 @@
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\gz_sensor.exe.config
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\gz_sensor.exe
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\gz_sensor.pdb
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\MySql.Data.dll
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\MySql.Data.xml
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.csprojResolveAssemblyReference.cache
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form1.resources
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form2.resources
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Properties.Resources.resources
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.csproj.GenerateResource.Cache
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.csproj.CoreCompileInputs.cache
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.exe
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.pdb
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form3.resources
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form4.resources
+C:\Users\erogluizzettin\source\repos\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form5.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\gz_sensor.exe.config
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\gz_sensor.exe
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\gz_sensor.pdb
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\MySql.Data.dll
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\MySql.Data.xml
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.csprojResolveAssemblyReference.cache
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form1.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form2.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form3.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form4.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Form5.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.Properties.Resources.resources
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.csproj.GenerateResource.Cache
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.csproj.CoreCompileInputs.cache
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.exe
+C:\Users\erogluizzettin\Desktop\Yedek C#\gz_sensor\gz_sensor\obj\Debug\gz_sensor.pdb
